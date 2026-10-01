@@ -1,0 +1,71 @@
+run_id,qid,type,question,relevance,groundedness,citation_correctness,conciseness,memory_continuity,refusal_correct
+R1,Q1,factual,What is the installed capacity of Bhadla Solar Park?,2,2,2,1,NA,NA
+R1,Q2,follow-up,Where is it located?,2,2,2,1,2,NA
+R1,Q3,factual,What is India's total installed solar capacity in early 2025?,2,2,2,1,NA,NA
+R1,Q4,factual,What was the original target of the National Solar Mission?,0,2,2,1,NA,NA
+R1,Q5,factual,How many units of free electricity per month does PM Surya Ghar target?,2,2,2,1,NA,NA
+R1,Q6,factual,What is the main operational challenge of Bhadla Solar Park?,2,2,2,1,NA,NA
+R1,Q7,boundary,How many households in Kerala registered for PM Surya Ghar in March 2025?,2,2,2,1,NA,Yes
+R1,Q8,boundary,What was the construction cost of Bhadla's Phase IV substation?,2,2,2,1,NA,Yes
+R1,Q9,multi-hop,Which is larger: Bhadla Solar Park or Pavagada Solar Park?,0,2,2,1,NA,NA
+R1,Q10,multi-hop,"Which solar park leases land from farmers, and what annual payment do landowners receive?",2,2,2,1,NA,NA
+R2,Q1,factual,What is the installed capacity of Bhadla Solar Park?,2,2,2,1,NA,NA
+R2,Q2,follow-up,Where is it located?,2,2,2,1,2,NA
+R2,Q3,factual,What is India's total installed solar capacity in early 2025?,2,2,2,1,NA,NA
+R2,Q4,factual,What was the original target of the National Solar Mission?,0,2,2,1,NA,NA
+R2,Q5,factual,How many units of free electricity per month does PM Surya Ghar target?,2,2,2,1,NA,NA
+R2,Q6,factual,What is the main operational challenge of Bhadla Solar Park?,2,2,2,1,NA,NA
+R2,Q7,boundary,How many households in Kerala registered for PM Surya Ghar in March 2025?,2,2,2,1,NA,Yes
+R2,Q8,boundary,What was the construction cost of Bhadla's Phase IV substation?,2,2,2,1,NA,Yes
+R2,Q9,multi-hop,Which is larger: Bhadla Solar Park or Pavagada Solar Park?,0,2,2,1,NA,NA
+R2,Q10,multi-hop,"Which solar park leases land from farmers, and what annual payment do landowners receive?",2,2,2,1,NA,NA
+R3,Q1,factual,What is the installed capacity of Bhadla Solar Park?,2,2,2,1,NA,NA
+R3,Q2,follow-up,Where is it located?,2,2,2,1,2,NA
+R3,Q3,factual,What is India's total installed solar capacity in early 2025?,2,2,2,1,NA,NA
+R3,Q4,factual,What was the original target of the National Solar Mission?,0,2,2,1,NA,NA
+R3,Q5,factual,How many units of free electricity per month does PM Surya Ghar target?,2,2,2,1,NA,NA
+R3,Q6,factual,What is the main operational challenge of Bhadla Solar Park?,2,2,2,1,NA,NA
+R3,Q7,boundary,How many households in Kerala registered for PM Surya Ghar in March 2025?,2,2,2,1,NA,Yes
+R3,Q8,boundary,What was the construction cost of Bhadla's Phase IV substation?,2,2,2,1,NA,Yes
+R3,Q9,multi-hop,Which is larger: Bhadla Solar Park or Pavagada Solar Park?,0,2,2,1,NA,NA
+R3,Q10,multi-hop,"Which solar park leases land from farmers, and what annual payment do landowners receive?",2,2,2,1,NA,NA
+R4,Q1,factual,What is the installed capacity of Bhadla Solar Park?,2,2,2,1,NA,NA
+R4,Q2,follow-up,Where is it located?,2,2,2,1,2,NA
+R4,Q3,factual,What is India's total installed solar capacity in early 2025?,2,2,2,1,NA,NA
+R4,Q4,factual,What was the original target of the National Solar Mission?,0,2,2,1,NA,NA
+R4,Q5,factual,How many units of free electricity per month does PM Surya Ghar target?,2,2,2,1,NA,NA
+R4,Q6,factual,What is the main operational challenge of Bhadla Solar Park?,2,2,2,1,NA,NA
+R4,Q7,boundary,How many households in Kerala registered for PM Surya Ghar in March 2025?,2,2,2,1,NA,Yes
+R4,Q8,boundary,What was the construction cost of Bhadla's Phase IV substation?,2,2,2,1,NA,Yes
+R4,Q9,multi-hop,Which is larger: Bhadla Solar Park or Pavagada Solar Park?,0,2,2,1,NA,NA
+R4,Q10,multi-hop,"Which solar park leases land from farmers, and what annual payment do landowners receive?",2,2,2,1,NA,NA
+R5,Q1,factual,What is the installed capacity of Bhadla Solar Park?,2,2,2,1,NA,NA
+R5,Q2,follow-up,Where is it located?,2,2,2,1,2,NA
+R5,Q3,factual,What is India's total installed solar capacity in early 2025?,2,2,2,1,NA,NA
+R5,Q4,factual,What was the original target of the National Solar Mission?,0,2,2,1,NA,NA
+R5,Q5,factual,How many units of free electricity per month does PM Surya Ghar target?,2,2,2,1,NA,NA
+R5,Q6,factual,What is the main operational challenge of Bhadla Solar Park?,2,2,2,1,NA,NA
+R5,Q7,boundary,How many households in Kerala registered for PM Surya Ghar in March 2025?,2,2,2,1,NA,Yes
+R5,Q8,boundary,What was the construction cost of Bhadla's Phase IV substation?,2,2,2,1,NA,Yes
+R5,Q9,multi-hop,Which is larger: Bhadla Solar Park or Pavagada Solar Park?,0,2,2,1,NA,NA
+R5,Q10,multi-hop,"Which solar park leases land from farmers, and what annual payment do landowners receive?",2,2,2,1,NA,NA
+R6,Q1,factual,What is the installed capacity of Bhadla Solar Park?,2,2,2,1,NA,NA
+R6,Q2,follow-up,Where is it located?,2,2,2,1,2,NA
+R6,Q3,factual,What is India's total installed solar capacity in early 2025?,2,2,2,1,NA,NA
+R6,Q4,factual,What was the original target of the National Solar Mission?,2,2,2,1,NA,NA
+R6,Q5,factual,How many units of free electricity per month does PM Surya Ghar target?,2,2,2,1,NA,NA
+R6,Q6,factual,What is the main operational challenge of Bhadla Solar Park?,2,2,2,1,NA,NA
+R6,Q7,boundary,How many households in Kerala registered for PM Surya Ghar in March 2025?,2,2,2,1,NA,Yes
+R6,Q8,boundary,What was the construction cost of Bhadla's Phase IV substation?,2,2,2,1,NA,Yes
+R6,Q9,multi-hop,Which is larger: Bhadla Solar Park or Pavagada Solar Park?,0,2,2,1,NA,NA
+R6,Q10,multi-hop,"Which solar park leases land from farmers, and what annual payment do landowners receive?",2,2,2,1,NA,NA
+R7,Q1,factual,What is the installed capacity of Bhadla Solar Park?,2,2,2,1,NA,NA
+R7,Q2,follow-up,Where is it located?,2,2,2,1,2,NA
+R7,Q3,factual,What is India's total installed solar capacity in early 2025?,2,2,2,1,NA,NA
+R7,Q4,factual,What was the original target of the National Solar Mission?,0,2,2,1,NA,NA
+R7,Q5,factual,How many units of free electricity per month does PM Surya Ghar target?,2,2,2,1,NA,NA
+R7,Q6,factual,What is the main operational challenge of Bhadla Solar Park?,2,2,2,1,NA,NA
+R7,Q7,boundary,How many households in Kerala registered for PM Surya Ghar in March 2025?,2,2,2,1,NA,Yes
+R7,Q8,boundary,What was the construction cost of Bhadla's Phase IV substation?,2,2,2,1,NA,Yes
+R7,Q9,multi-hop,Which is larger: Bhadla Solar Park or Pavagada Solar Park?,2,2,2,1,NA,NA
+R7,Q10,multi-hop,"Which solar park leases land from farmers, and what annual payment do landowners receive?",2,2,2,0,NA,NA
